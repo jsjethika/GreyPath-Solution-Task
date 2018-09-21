@@ -1,0 +1,14 @@
+<resources>
+
+
+    <string name="loading">pls wait its loading.....</string>
+
+    <string name="networkMsg"> Pls check the network connection</string>
+
+    <string name="gPlus">Login/Signup with Google +</string>
+
+    <string name="gPlusLogout">you are not Login</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

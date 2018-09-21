@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Google -->
+    <string name="API_Key">AIzaSyANAmSJRafT3IXJlrvL1PVg--2YMnbjxJ0</string>
+    <string name="G_PROJECT_ID">greypathsolution-1537350983407</string>
+    <string name="G_PROJECT_NUMBER">104507691370</string>
+    <string name="G_CLIENT_ID">104507691370-dlh9d162dksov39dalilsid43qtov6ko.apps.googleusercontent.com</string>
+
+
+    <!-- FB -->
+
+    <string name="FB_PROJECT_ID">2151666188440893</string>
+    <string name="FB_PROJECT_NUMBER">104507691370</string>
+    <string name="FB_CLIENT_ID">89aff0ddb315677da8d80364b7a64dd7</string>
+    <string name="FB_SecreateKey">72f811863a317c395cbeb12f8e103943</string>
+    <string name="fb_login_protocol_scheme">fb2151666188440893</string>
+
+</resources>
